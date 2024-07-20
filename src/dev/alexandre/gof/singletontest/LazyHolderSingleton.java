@@ -1,4 +1,4 @@
-package dev.alexandre.gof;
+package dev.alexandre.gof.singletontest;
 /**
  *  Singleton "LazyHolder"
  *  @author AlexandreBMelo

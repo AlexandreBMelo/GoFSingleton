@@ -1,6 +1,4 @@
-package dev.alexandre.gof;
-
-import java.sql.SQLOutput;
+package dev.alexandre.gof.singletontest;
 
 public class Test
 {
